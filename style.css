@@ -323,6 +323,10 @@ body:not(.user-is-tabbing) a:focus {
     transition: all .4s;
 }
 
+.back-to-top:hover {
+    scale: 1.2;
+}
+
 .back-to-top__image {
     height: 70%;
 }
